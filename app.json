@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "sersaude",
-    "slug": "sersaude",
+    "name": "template",
+    "slug": "template",
     "version": "1.0.0",
-    "scheme": "sersaude",
+    "scheme": "template",
     "plugins": [
       "expo-router"
     ],
