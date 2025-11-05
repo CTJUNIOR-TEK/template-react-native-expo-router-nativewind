@@ -9,7 +9,7 @@ export default function Id() {
     return (
         <View className="min-h-screen flex items-center justify-center gap-4 bg-slate-300">
             <Text className="text-cyan-600 text-3xl font-bold">
-                Página inicial
+                Página dinâmica
             </Text>
 
             <Link href="/" asChild>
