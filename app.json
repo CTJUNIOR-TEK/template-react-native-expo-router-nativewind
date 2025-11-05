@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "sersaude",
+    "slug": "sersaude",
+    "version": "1.0.0",
+    "scheme": "sersaude",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "userInterfaceStyle": "automatic"
+  }
+}
