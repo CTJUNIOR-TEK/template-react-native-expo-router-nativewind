@@ -19,7 +19,7 @@ export default function Home() {
                 </TouchableOpacity>
             </Link>
 
-            <Link href="/123?name=PedroSodré" asChild>
+            <Link href="/1?name=PedroSodré" asChild>
                 <TouchableOpacity
                     className="bg-blue-600 py-2 px-4 rounded-lg"
                 >
