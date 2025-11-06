@@ -4,7 +4,7 @@ import { View, Text, TouchableOpacity } from "react-native"
 export default function Home() {
     const router = useNavigation()
     return (
-        <View className="bg-blue-200 min-h-screen flex items-center justify-center gap-4">
+        <View className="bg-sodras min-h-screen flex items-center justify-center gap-4">
             <Text className="text-cyan-600 text-3xl font-bold">
                 Página inicial
             </Text>

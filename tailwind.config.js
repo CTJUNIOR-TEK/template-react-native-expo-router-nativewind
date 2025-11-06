@@ -8,9 +8,9 @@ module.exports = {
     extend: {
       colors: {
         red: {
-          500: '#FF0000',
-          400: '#FF4D4D',
-          300: '#FF9999',
+          500: '#00FF00',
+          400: '#00FF11',
+          300: '#00FF22',
         },
         'sodras': "#00ffaa"
       },
